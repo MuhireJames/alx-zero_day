@@ -1,0 +1,4 @@
+cd # change the shell working directory.
+ls # list directory contents
+mkdir # create
+pwd # print name of current/working directory
