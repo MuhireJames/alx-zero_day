@@ -1,8 +1,2 @@
-cd for navigation 
-mkdir for new directory
-touch for new files 
-git add . to add files 
-git branch for making branch 
-git checkout branch name for switching to our branch 
-git commit -m"..." for commit change 
-git push origin master for pushing to our master
+git pull 
+
